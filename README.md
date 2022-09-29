@@ -17,13 +17,13 @@ www.linkedin.com/in/jonatan-kabuta
 <img height='32' width='32' title='JavaScript'src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png'>
 <img height='32' width='32' title='node.js' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png'>
 <img height='32' width='32' title='react.js' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png'>
-  <a href="#" target="blank"><img alt="Redux" title="Redux" src="https://simpleicons.org/icons/redux.svg" width="32" height="32"/>  </a>
+  <a href="#" target="blank"><img alt="Redux" title="Redux" src="https://img.favpng.com/6/2/11/redux-react-javascript-freecodecamp-npm-png-favpng-6F2x50visKuC0trBQ0952Cm1E_t.jpg" width="32" height="32"/>  </a>
 
 <img height='32' width='32' title='git' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png'>
 
 <img height='32' width='32' title= 'HTML5' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png'>
 <img height='32' width='32' title= 'CSS3' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png'>
-<img height='32' width='32' title= 'GitHub' src='https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png'>
+<img height='32' width='32' title= 'GitHub' src='https://www.nicepng.com/png/detail/192-1923042_github-icon-png-github-png.png'>
 <img height='32' width='32' title= 'terminal' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png'>
 <a href="#" target="blank"> <img  alt="PostgreSQL" title="PostgreSQL"  src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" width="32" height="32"/>
  </a>
