@@ -11,7 +11,7 @@ or
 www.linkedin.com/in/jonatan-kabuta
 
 
-*wrote a small bash script to manipulate data for VacaLoca, loved it
+<sub><i>*wrote a small bash script to manipulate data for VacaLoca, loved it</i></sub>
 
 ---
 ### My stack:
