@@ -1,6 +1,6 @@
 ### Hey There, I'm Jonatan 😄
 
-I am a 27 year old full-stack developer, started with JavaScript but very open to learn more languages (been thinking about picking up bash lately). I live in Rijswijk, close to The Hague in the Netherlands. I speak Dutch and English.  
+I am a 27 year old full-stack developer, started with JavaScript but very open to learn more languages*. I live in Rijswijk, close to The Hague in the Netherlands. I speak Dutch and English.  
 
 📫 How to reach me: 
 </br>
@@ -10,6 +10,8 @@ or
 </br>
 www.linkedin.com/in/jonatan-kabuta
 
+
+*wrote a small bash script to manipulate data for VacaLoca, loved it
 ---
 ### My stack:
 
